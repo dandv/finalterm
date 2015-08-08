@@ -1,6 +1,4 @@
-### :bangbang: Final Term is no longer being actively developed. The official discontinuation announcement can be found at http://worldwidemann.com/finally-terminated. :bangbang:
-
-<br><br><br>
+Development on Final Term is being restarted by me. Unfortunately, I have NO experience in Vala. Please give me some time as I try to get the hang of this.
 
 # About Final Term
 
